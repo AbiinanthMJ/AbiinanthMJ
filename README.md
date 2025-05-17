@@ -20,9 +20,10 @@ Welcome to my GitHub! I'm a passionate Engineering student who enjoys solving re
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbiinanthMJow_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbiinanthMJ&show_icons=true&theme=radical" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbiinanthMJ&theme=radical" alt="GitHub streak" />
 </p>
+
 
 ---
 
