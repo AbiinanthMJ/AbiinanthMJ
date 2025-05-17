@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a passionate Engineering student who enjoys solving re
 - 💡 Interests: Embedded Systems, Mechanical Design, Software Development  
 - 🛠️ Languages: Java, Python, C++, JavaScript  
 - 🌐 Web: HTML, CSS, JavaScript, Node.js, Express, MongoDB  
-- ⚙️ CAD & Simulation: Fusion 360, SimScale  
+- ⚙️ CAD & Simulation: Fusion 360, Creo  
 - 🐧 OS: Windows | Linux  
 - 🎮 Fun Fact: I learn best by building things from scratch and iterating on them
 
@@ -20,8 +20,8 @@ Welcome to my GitHub! I'm a passionate Engineering student who enjoys solving re
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbiinanthMJow_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbiinanthMJ&theme=radical" alt="GitHub streak" />
 </p>
 
 ---
