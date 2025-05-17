@@ -46,7 +46,7 @@ Welcome to my GitHub! I'm a passionate Engineering student who enjoys solving re
 
 - 💼 [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/abiinanth-m-j-a39784294/))
 - 📫 Email:abiinanthmj18@gmail.com
-- 🌐 Portfolio: [your-portfolio-site.com]([https://your-portfolio-site.com](https://abiinanth.netlify.app/))
+- 🌐 Portfolio: [your-portfolio-site.com](https://abiinanth.netlify.app/))
 ---
 
 _“Bridging mechanical engineering and modern software through real-world solutions.”_
