@@ -24,6 +24,8 @@ Welcome to my GitHub! I'm a passionate Engineering student who enjoys solving re
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbiinanthMJ&theme=radical" alt="GitHub streak" />
 </p>
 
+### 📊 LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/AbiinanthMJ?ext=contest)](https://leetcode.com/AbiinanthMJ/)
 
 ---
 
