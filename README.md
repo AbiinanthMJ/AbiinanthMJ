@@ -25,7 +25,8 @@ Welcome to my GitHub! I'm a passionate Engineering student who enjoys solving re
 </p>
 
 ### 📊 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/AbiinanthMJ?ext=contest)](https://leetcode.com/AbiinanthMJ/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/abiinanth?ext=contest)](https://leetcode.com/u/abiinanth/)
+
 
 ---
 
